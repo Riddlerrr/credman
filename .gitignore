@@ -12,3 +12,4 @@ config/credentians/*.yml.enc
 config/credentians/*.key
 
 *.code-workspace
+.tool-versions
